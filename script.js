@@ -6,7 +6,7 @@
     const accessValue = 'comptia-access-granted';
 
     // The URL to redirect users to if they don't have access.
-    const redirectUrl = 'https://nas.io/comptia_bootcamp/courses/keut';
+    const redirectUrl = 'https://nas.io/comptia_bootcamp/products/tgca/view';
 
     // Create a URLSearchParams object to easily read the URL's query parameters.
     const urlParams = new URLSearchParams(window.location.search);
